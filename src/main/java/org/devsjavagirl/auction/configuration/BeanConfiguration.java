@@ -11,6 +11,7 @@ public class BeanConfiguration {
 
     private String starWarsUrl;
 
+
     public BeanConfiguration(StarWarsConfiguration starWarsConfiguration){
         this.starWarsUrl = starWarsConfiguration.starWarsBaseUrl;
     }

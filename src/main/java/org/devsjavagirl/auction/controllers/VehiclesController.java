@@ -1,4 +1,4 @@
-package org.devsjavagirl.auction;
+package org.devsjavagirl.auction.controllers;
 
 import org.devsjavagirl.auction.model.AllVehicleResponse;
 import org.devsjavagirl.auction.model.VehicleResponse;
