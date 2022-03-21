@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "3efd84c3-d71e-4c65-bf3b-b1826f7202db",
+		"name": "Atividade-REST",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:8080/starwars/vehicles",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "localhost:8080/starwars/vehicles"
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/customer",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "localhost:8080/customer"
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:8080/contract",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "localhost:8080/contract"
+			},
+			"response": []
+		}
+	]
+}
